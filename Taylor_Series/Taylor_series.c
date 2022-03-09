@@ -2,8 +2,8 @@
 
 #define PI 3.141592653589793238
 
-double sin(double x, int Count) {  //ÀÔ·Â°¢µµ, Count¹øÂ° Ç×±îÁö °è»ê
-	double Term = x; // Ç×
+double sin(double x, int Count) {  //ì…ë ¥ê°ë„, Countë²ˆì§¸ í•­ê¹Œì§€ ê³„ì‚°
+	double Term = x; // í•­
 	double sum = Term;
 
 	if (x < 0) {
